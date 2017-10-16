@@ -4,7 +4,7 @@ PX4 can be built on the console or in an IDE, for both simulated and hardware ta
 
 ## Downloading the Software and First Build
 
-For the first build we'll build for a simulated target using a console environment. This allows us to validate the system setup before moving on to real hardware and and IDE. 
+For the first build we'll build for a simulated target using a console environment. This allows us to validate the system setup before moving on to real hardware and IDE. 
 
 First bring up the terminal
 * On OS X, hit ⌘-space and search for 'terminal'. 
